@@ -10,10 +10,9 @@
 # Usage
 ---
 
-```
-python
+```python
 
-#import foobar
+import foobar
 
 
 foobar.pluralize('word') # returns 'words'
