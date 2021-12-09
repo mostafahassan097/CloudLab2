@@ -11,11 +11,11 @@
 ---
 
 
-import foobar
+....#import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+....foobar.pluralize('word') # returns 'words'
+....foobar.pluralize('goose') # returns 'geese'
+....foobar.singularize('phenomena') # returns 'phenomenon'
 
 # Contributing
 ---
@@ -37,4 +37,4 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 
 
 
-![](https://github.com/mostafahassan097/CloudLab2/blob/main/images/Screenshot%20from%202021-12-09%2013-10.png)
+![](https://github.com/mostafahassan097/CloudLab2/blob/main/images/Screenshot%20from%202021-12-09%2013-26-10.png)
